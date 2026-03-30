@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <div>
-      
-    </div>
+    <section>
+        <h6>&copy; 2026 - direitos reservados</h6>
+    </section>
   )
 }
 
