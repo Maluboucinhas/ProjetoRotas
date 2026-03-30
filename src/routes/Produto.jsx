@@ -1,8 +1,8 @@
 const Produto = () => {
   return (
-    <div>
-      
-    </div>
+    <section>
+        <h2>Página Produto</h2>
+    </section>
   )
 }
 

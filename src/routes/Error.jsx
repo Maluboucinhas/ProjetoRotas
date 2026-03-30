@@ -1,8 +1,8 @@
 const Error = () => {
   return (
-    <div>
-      
-    </div>
+    <section>
+        <h2>Erro 404 - Página não encontrada</h2>
+    </section>
   )
 }
 
