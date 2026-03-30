@@ -5,7 +5,8 @@ const Header = () => {
     <section className="Nav">
         <Link to="/">Home</Link>
         <Link to="/produto">Produto</Link>
-        <Link to="/error">Error</Link>
+        <Link to="/sobre">Sobre</Link>
+        <Link to="/login">Login</Link>
     </section>
   )
 }
